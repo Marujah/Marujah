@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marujah
 - 👀 I’m interested in frontend web technologies
-- 🌱 I’m currently learning c# and python
+- 🌱 I’m currently learning go and python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 contact me: marujah@gmail.com
 
